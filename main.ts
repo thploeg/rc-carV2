@@ -1,5 +1,5 @@
-//% color="#AA278D" weight=100
-namespace RCcar {
+//% color="#3adcfe"
+namespace MatThom {
 
     export enum Motor {
         //% block="A"
@@ -121,3 +121,4 @@ namespace RCcar {
         setServo(servo, 90);
     }
 }
+
