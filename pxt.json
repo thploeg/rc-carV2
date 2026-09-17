@@ -1,5 +1,6 @@
 {
     "name": "Rc-car",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
