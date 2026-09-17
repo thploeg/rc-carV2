@@ -22,3 +22,52 @@ Om deze repository te bewerken in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+
+# RC Car V2 API documentation
+
+MakeCode extension for controlling an RC car with a micro:bit.
+
+## Blocks
+
+### Drive
+
+Controls the speed and direction of the car.
+
+### Steering
+
+Controls the steering servo.
+
+### Stop
+
+Stops the car.
+
+## Installation
+
+Open MakeCode for micro:bit and select:
+
+Extensions → Search
+
+Then enter:
+
+https://github.com/thploeg/rc-carV2
+
+## API
+
+### `drive(speed: number)`
+
+Drives the car at the specified speed.
+
+### `steering(angle: number)`
+
+Sets the steering angle.
+
+### `stop()`
+
+Stops the motors.
+
+## License
+
+MIT License
