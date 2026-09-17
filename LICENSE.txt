@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 Thomas Ploeg
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+This Software is developed for and intended for educational purposes at
+Ichthus College. It is provided for use in an educational context and is not
+intended for commercial or other purposes outside that context.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+MIT-licentie
+
+Copyright (c) 2026 Thomas Ploeg
+
+Hierbij wordt aan eenieder die een kopie van deze software en de bijbehorende
+documentatiebestanden (de "Software") verkrijgt, kosteloos toestemming verleend
+om zonder beperking met de Software om te gaan, met inbegrip van het recht om
+de Software te gebruiken, te kopiëren, te wijzigen, samen te voegen, te
+publiceren, te distribueren, in sublicentie te geven en/of kopieën van de
+Software te verkopen, en om personen aan wie de Software wordt verstrekt dit
+toe te staan, onder de volgende voorwaarden:
+
+De bovenstaande copyrightvermelding en deze toestemmingsvermelding moeten
+worden opgenomen in alle kopieën of substantiële delen van de Software.
+
+Deze Software is ontwikkeld voor en bedoeld voor onderwijsdoeleinden bij het
+Ichthus College. De Software is bedoeld voor gebruik binnen een educatieve
+context en niet voor commerciële of andere doeleinden buiten deze context.
+
+DE SOFTWARE WORDT GELEVERD "ZOALS DEZE IS", ZONDER ENIGE VORM VAN GARANTIE,
+EXPLICIET OF IMPLICIET, MET INBEGRIP VAN, MAAR NIET BEPERKT TOT, GARANTIES
+BETREFFENDE VERHANDELBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET
+NIET-INBREUKMAKEN. IN GEEN GEVAL ZULLEN DE AUTEURS AANSPRAKELIJK ZIJN VOOR
+ENIGE CLAIM, SCHADE OF ANDERE AANSPRAKELIJKHEID DIE VOORTVLOEIT UIT HET
+GEBRUIK VAN DE SOFTWARE OF DAARMEE VERBAND HOUDT.
